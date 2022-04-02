@@ -1,3 +1,3 @@
 # Repository for Little Boy reconstructions
 
-here i put a decrisption.
+here i put a description.
